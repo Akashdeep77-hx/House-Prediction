@@ -12,7 +12,7 @@ Key Components
 Usage
 Clone the repository:
 
-git clone https://github.com/yourusername/HousePrice_Prediction.git
+git clone https://github.com/Akashdeep77-hx/House-Prediction
 cd HousePrice_Prediction
 
 Install dependencies:
